@@ -1,0 +1,3 @@
+n=""
+
+print(type(n))
